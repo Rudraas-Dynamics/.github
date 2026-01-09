@@ -7,7 +7,7 @@ We focus on the complete cycle of an automation project, from initial concept an
 * **Modeling and Simulation:** Creating mathematical models of dynamic systems (e.g., in MATLAB/Simulink or Python) to predict behavior.
 * **Controller Design:** Designing and tuning control algorithms, such as **PID** (Proportional-Integral-Derivative), **State-Space**, and advanced techniques like **Model Predictive Control (MPC)**. 
 
-[Image of a block diagram for a closed-loop control system]
+
 
 * **Hardware Implementation:** Programming microcontrollers (**Arduino, ESP32, Raspberry Pi**) and PLCs for real-time control applications.
 * **Robotics:** Working on mobile robotics, robotic manipulators, and developing kinematic/dynamic control systems.
